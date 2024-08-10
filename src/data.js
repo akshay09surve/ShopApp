@@ -63,7 +63,7 @@ export const popularProducts = [
     },
     {
         id: 6,
-        img:"https://assets.ajio.com/medias/sys_master/root/20231218/uaz6/658074f3afa4cf41f5d7e030/-473Wx593H-466894296-green-MODEL.jpg"
+        img: "https://assets.ajio.com/medias/sys_master/root/20230719/rQHj/64b7d584a9b42d15c9616ed5/-473Wx593H-410381170-98t-MODEL.jpg"
     },
     {
         id: 7,
@@ -72,5 +72,13 @@ export const popularProducts = [
     {
         id: 8,
         img: "https://assets.ajio.com/medias/sys_master/root/20240709/0DSo/668ce9ec1d763220fa302850/-473Wx593H-442589340-ltbrown-MODEL.jpg"
+    },
+    {
+        id: 9,
+        img:"https://assets.ajio.com/medias/sys_master/root/20231218/uaz6/658074f3afa4cf41f5d7e030/-473Wx593H-466894296-green-MODEL.jpg"
+    },
+    {
+        id: 10,
+        img: "https://assets.ajio.com/medias/sys_master/root/20240618/KOc0/66709ab76f60443f314bae15/-473Wx593H-700100447-black-MODEL.jpg"
     },
 ]
